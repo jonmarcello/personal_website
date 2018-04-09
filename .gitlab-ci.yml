@@ -21,4 +21,11 @@ build:
   script:
    - npm install
    - npm run build
+   - mkdir firebase
+   - cd firebase
+   - mkdir public
+   - cp -a ../dist/. /firebase/public
+   - echo $firebase_json > firebase.json
+   - echo $firebase_rc > .firebaserc
+   - firebase deploy --token "1/0GWyrSuIEZZ2Mw2VpYdtooIU4K_QIAyqUagaY8b2Ou8"
    
