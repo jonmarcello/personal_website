@@ -30,7 +30,7 @@ build:
    - echo $firebase_rc > .firebaserc
    - echo "Listing folder >>>>>>"
    - ls
-   - echo ""
+   - ls public/
    - echo "Listing JSON >>>>>>>>"
    - cat firebase.json
    - echo ""
