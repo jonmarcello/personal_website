@@ -33,5 +33,6 @@ build:
    - echo "Listing JSON >>>>>>>>"
    - cat firebase.json
    - echo ""
+   - cd firebase
    - firebase deploy --debug --token "1/0GWyrSuIEZZ2Mw2VpYdtooIU4K_QIAyqUagaY8b2Ou8"
    
