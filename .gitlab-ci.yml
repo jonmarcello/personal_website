@@ -23,9 +23,8 @@ build:
    - npm i -g firebase-tools
    - npm run build
    - mkdir firebase
-   - cd firebase
-   - mkdir public
-   - cp -a ../dist/. /public
+   - mkdir firebase/public
+   - cp -a dist/. firebase/public/
    - echo $firebase_json > firebase.json
    - echo $firebase_rc > .firebaserc
    - echo "Listing folder >>>>>>"
