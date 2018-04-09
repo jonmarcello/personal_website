@@ -167,7 +167,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Jonathan Marcello 2016
+                        Copyright &copy; Jonathan Marcello 2018
                     </div>
                 </div>
             </div>
