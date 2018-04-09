@@ -28,11 +28,5 @@ build:
    - cp -a ../dist/. public/
    - echo $firebase_json > firebase.json
    - echo $firebase_rc > .firebaserc
-   - echo "Listing folder >>>>>>"
-   - ls
-   - ls public/
-   - echo "Listing JSON >>>>>>>>"
-   - cat firebase.json
-   - echo ""
-   - firebase deploy --debug --token "1/0GWyrSuIEZZ2Mw2VpYdtooIU4K_QIAyqUagaY8b2Ou8"
+   - firebase deploy --token "1/0GWyrSuIEZZ2Mw2VpYdtooIU4K_QIAyqUagaY8b2Ou8"
    
