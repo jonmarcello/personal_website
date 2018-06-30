@@ -39,7 +39,20 @@
                     </a>
                 </div>
               </div>
+              <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                    <a target="_blank" href="https://github.com/jonmarcello" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i style="font-weight: bold;" class="fa fa-external-link fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="static/img/portfolio/GitHub-Mark.png" style="height: 260px; margin: auto;" class="img-responsive" alt="Linkedin Logo">
+                    </a>
+                </div>
+              </div>
         </div>
+        
     </section>
 </template>
 
