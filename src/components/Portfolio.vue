@@ -18,7 +18,7 @@
                         <img src="static/img/ccht_logo.png" style="height: 260px; margin: auto;" class="img-responsive" alt="CCHT Logo">
                     </a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-4 portfolio-item" style="height: 260px">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
