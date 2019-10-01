@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header id="header">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -7,7 +7,7 @@
                     <div class="intro-text">
                         <!-- <span class="name">Start Bootstrap</span> -->
                         <hr class="star-light">
-                        <span class="skills">Web Developer - Student<!-- - User Experience Designer --></span>
+                        <span class="skills">Full time coder - Part time explorer</span>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Jonathan Marcello 2018
+                        Jonathan Marcello - 2019
                     </div>
                 </div>
             </div>

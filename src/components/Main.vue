@@ -10,11 +10,14 @@
     <!-- Portfolio Grid Section -->
     <Portfolio />
 
+    <!-- Portfolio Grid Section -->
+    <Playground />
+
     <!-- About Section -->
     <About />
 
     <!-- Contact Section -->
-   <Contact />
+    <Contact />
 
     <!-- Footer -->
     <Footer />
