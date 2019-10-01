@@ -14,6 +14,7 @@
 
     background: url("/static/img/IMG_0710_Small.jpg");
     background-position: center;
+    background-size: cover;
     opacity: 0.8;
 
     content: "";
