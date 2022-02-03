@@ -14,10 +14,10 @@
     <Playground />
 
     <!-- About Section -->
-    <About />
+    <!-- <About /> -->
 
     <!-- Contact Section -->
-    <Contact />
+    <!-- <Contact /> -->
 
     <!-- Footer -->
     <Footer />
