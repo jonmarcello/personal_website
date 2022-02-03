@@ -7,7 +7,7 @@
                     <div class="intro-text">
                         <!-- <span class="name">Start Bootstrap</span> -->
                         <hr class="star-light">
-                        <span class="skills">Full time coder - Part time explorer</span>
+                        <span class="skills">Software Developer</span>
                     </div>
                 </div>
             </div>
